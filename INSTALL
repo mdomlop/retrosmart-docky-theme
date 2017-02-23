@@ -1,0 +1,7 @@
+INSTALL
+=======
+
+Copy `src` folder in
+`/usr/share/docky/themes/retrosmart-docky-theme`.
+
+Then load the theme throught docky menu.
